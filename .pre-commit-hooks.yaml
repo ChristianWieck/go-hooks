@@ -1,0 +1,5 @@
+- id: go-line-length
+  name: short go code line lengths 
+  description: shortens the line length of go code to 90 characters.
+  entry: go-line-length
+  language: golang
