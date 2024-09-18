@@ -44,5 +44,5 @@ func main() {
 		cmd.Output()
 		os.Exit(1) // Run failed
 	}
-	os.Exit(1)
+	os.Exit(0)
 }
